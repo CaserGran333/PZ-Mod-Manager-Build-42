@@ -53,7 +53,7 @@ Manage Steam Workshop and local mods with an intuitive interface. Create multipl
 
 ## Installation
 
-[DOWNLOAD](/)
+[DOWNLOAD](https://github.com/CaserGran333/PZ-Mod-Manager-Build-42/releases/tag/Release)
 
 ### Build
 
